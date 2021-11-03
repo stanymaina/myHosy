@@ -1,0 +1,1 @@
+(self.webpackChunkngx_admin=self.webpackChunkngx_admin||[]).push([[845],{19845:function(n,e,t){"use strict";t.r(e),t.d(e,{AdminModule:function(){return r}});var u=t(38583),i=t(37716);let r=(()=>{class n{}return n.\u0275fac=function(e){return new(e||n)},n.\u0275mod=i["\u0275\u0275defineNgModule"]({type:n}),n.\u0275inj=i["\u0275\u0275defineInjector"]({imports:[[u.ez]]}),n})()}}]);
