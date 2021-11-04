@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyHosy=self.webpackChunkmyHosy||[]).push([[845],{19845:function(e,n,t){t.r(n),t.d(n,{AdminModule:function(){return o}});var u=t(38583),r=t(37716);let o=(()=>{class e{}return e.\u0275fac=function(n){return new(n||e)},e.\u0275mod=r.\u0275\u0275defineNgModule({type:e}),e.\u0275inj=r.\u0275\u0275defineInjector({imports:[[u.ez]]}),e})()}}]);
