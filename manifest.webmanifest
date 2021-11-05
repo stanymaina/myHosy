@@ -1,7 +1,7 @@
 {
-  "name": "myHosy",
-  "short_name": "myHosy",
-  "theme_color": "#1976d2",
+  "name": "myHealth by Oquion",
+  "short_name": "myHealth",
+  "theme_color": "#293039",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
